@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DECYD Quorum D mark">
+  <rect width="64" height="64" rx="15" fill="#12100e"/>
+  <path d="M20.5 16C29 16 36.5 17.6 41 21.1" fill="none" stroke="#c4972a" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M20.5 24C30 24 39 24.9 44.2 26.8" fill="none" stroke="#c4972a" stroke-width="3.15" stroke-linecap="round"/>
+  <path d="M20.5 32H45" fill="none" stroke="#c4972a" stroke-width="2.9" stroke-linecap="round"/>
+  <path d="M20.5 40C30 40 39 39.1 44.2 37.2" fill="none" stroke="#c4972a" stroke-width="3.15" stroke-linecap="round"/>
+  <path d="M20.5 48C29 48 36.5 46.4 41 42.9" fill="none" stroke="#c4972a" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M20.5 13v38" fill="none" stroke="#f4efe6" stroke-width="5.75"/>
+</svg>
